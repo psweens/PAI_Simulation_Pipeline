@@ -113,7 +113,7 @@ Make sure:
 
 This pipeline is ideal for:
 - Validating photoacoustic reconstruction methods
-- Generating paired data for training deep learning models (e.g. VAN-GAN)
+- Generating paired data for training deep learning models or validating unsupervised generative models (e.g. VAN-GAN)
 - Exploring the influence of vascular morphology on image contrast
 
 ---
