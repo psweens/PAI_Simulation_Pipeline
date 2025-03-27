@@ -27,7 +27,7 @@ The vascular segmentation masks used as input for simulation are generated using
 This simulation pipeline was originally developed to support the **[VAN-GAN](https://github.com/psweens/VAN-GAN)** project, a deep learning framework for reconstructing vascular structures from photoacoustic data.
 
 📄 **Citation**:  
-If using this code, please cite the VAN-GAN research paper [here](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202402195). The codebase for VAN-GAN can be found [here](https://github.com/psweens/VAN-GAN)).
+If using this code, please cite the VAN-GAN research paper [here](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202402195). The codebase for VAN-GAN can be found [here](https://github.com/psweens/VAN-GAN).
 
 ---
 
