@@ -124,7 +124,7 @@ This pipeline is ideal for:
 - [MCX: Monte Carlo eXtreme](http://mcx.space/)
 - [k-Wave Toolbox](http://www.k-wave.org/)
 - [V-System – Synthetic Vasculature](https://github.com/psweens/V-System)
-- [VAN-GAN – Vascular Reconstruction with GANs](https://github.com/psweens/VAN-GAN)
+- [VAN-GAN – Unsupervised segmentation of 3D bioimages](https://github.com/psweens/VAN-GAN)
 
 ---
 
