@@ -80,7 +80,7 @@ mcx --version
 ### Step 1: Optical Simulation (Python + SIMPA + MCX)
 
 ```bash
-python OpticalSimulations.py
+python OpticalSimulations.py --input_dir path/to/segmentations --output_dir path/to/save
 ```
 
 Ensure:
